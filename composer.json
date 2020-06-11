@@ -1,0 +1,15 @@
+{
+    "name": "vender/app",
+    "description": "Diplom project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vladislav Komnik",
+            "email": "jean41@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
